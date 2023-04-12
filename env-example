@@ -1,0 +1,9 @@
+RUSTY_MAIN_DB=baakey_prod_rusty
+RUSTY_CHAT_DB=rusty_chat
+RUSTY_CHAT_COLL=chat_data
+RUSTY_POCKET_CONSUMER_KEY=xxxx
+RUSTY_MONGODB_URI=mongodb://localhost:27017
+RUSTY_POCKET_DB=rusty_pocket
+RUSTY_POCKET_COLL=rusty_pocket_data
+RUSTY_SCHEDULER="1/5 * * * * * *"
+
